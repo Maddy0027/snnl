@@ -1,0 +1,80 @@
+[30-Oct-2023 23:30:18 Asia/Kolkata] In second loop: 
+[30-Oct-2023 23:30:18 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:30:18 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653fef324f78e_IMG-20231030-WA0023.jpg
+[30-Oct-2023 23:30:18 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:30:18 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653fef324f927_IMG-20231030-WA0020.jpg
+[30-Oct-2023 23:30:18 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:30:18 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653fef324fac8_IMG-20231030-WA0019.jpg
+[30-Oct-2023 23:30:18 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:30:18 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653fef325158d_IMG-20231030-WA0018.jpg
+[30-Oct-2023 23:30:18 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:30:18 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653fef3291d02_IMG-20231030-WA0016.jpg
+[30-Oct-2023 23:37:01 Asia/Kolkata] In second loop: 
+[30-Oct-2023 23:37:01 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:37:01 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff0c553158_IMG-20231030-WA0023.jpg
+[30-Oct-2023 23:37:01 Asia/Kolkata] PHP Notice:  Undefined variable: sql in /home/snnlloan/public_html/app/api/auth/upload_images.php on line 60
+[30-Oct-2023 23:37:01 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:37:01 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff0c55336f_IMG-20231030-WA0020.jpg
+[30-Oct-2023 23:37:01 Asia/Kolkata] PHP Notice:  Undefined variable: sql in /home/snnlloan/public_html/app/api/auth/upload_images.php on line 60
+[30-Oct-2023 23:37:01 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:37:01 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff0c55361a_IMG-20231030-WA0019.jpg
+[30-Oct-2023 23:37:01 Asia/Kolkata] PHP Notice:  Undefined variable: sql in /home/snnlloan/public_html/app/api/auth/upload_images.php on line 60
+[30-Oct-2023 23:37:01 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:37:01 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff0c58634d_IMG-20231030-WA0018.jpg
+[30-Oct-2023 23:37:01 Asia/Kolkata] PHP Notice:  Undefined variable: sql in /home/snnlloan/public_html/app/api/auth/upload_images.php on line 60
+[30-Oct-2023 23:37:01 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:37:01 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff0c5c4abf_IMG-20231030-WA0016.jpg
+[30-Oct-2023 23:37:01 Asia/Kolkata] PHP Notice:  Undefined variable: sql in /home/snnlloan/public_html/app/api/auth/upload_images.php on line 60
+[30-Oct-2023 23:38:44 Asia/Kolkata] In second loop: 
+[30-Oct-2023 23:38:44 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:38:44 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff12c7daf5_IMG-20231030-WA0023.jpg
+[30-Oct-2023 23:38:44 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:38:44 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff12c81624_IMG-20231030-WA0020.jpg
+[30-Oct-2023 23:38:44 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:38:44 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff12c8375b_IMG-20231030-WA0019.jpg
+[30-Oct-2023 23:38:44 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:38:44 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff12cb00f2_IMG-20231030-WA0018.jpg
+[30-Oct-2023 23:38:45 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:38:45 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff12d02fb7_IMG-20231030-WA0016.jpg
+[30-Oct-2023 23:54:51 Asia/Kolkata] In second loop: 
+[30-Oct-2023 23:54:51 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:54:51 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff4f32f33c_IMG-20231030-WA0023.jpg
+[30-Oct-2023 23:54:51 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:54:51 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff4f3314bb_IMG-20231030-WA0020.jpg
+[30-Oct-2023 23:54:51 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:54:51 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff4f33376c_IMG-20231030-WA0019.jpg
+[30-Oct-2023 23:54:51 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:54:51 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff4f364b2f_IMG-20231030-WA0018.jpg
+[30-Oct-2023 23:54:51 Asia/Kolkata] fileExtension : jpg
+[30-Oct-2023 23:54:51 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff4f3a5c84_IMG-20231030-WA0016.jpg
+[31-Oct-2023 00:06:22 Asia/Kolkata] In second loop: 
+[31-Oct-2023 00:06:22 Asia/Kolkata] fileExtension : jpg
+[31-Oct-2023 00:06:22 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff7a692dc7_IMG-20231031-WA0000.jpg
+[31-Oct-2023 00:07:29 Asia/Kolkata] In second loop: 
+[31-Oct-2023 00:07:29 Asia/Kolkata] fileExtension : jpg
+[31-Oct-2023 00:07:29 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff7e9b50ef_IMG-20231031-WA0000.jpg
+[31-Oct-2023 00:11:18 Asia/Kolkata] In second loop: 
+[31-Oct-2023 00:11:18 Asia/Kolkata] fileExtension : jpg
+[31-Oct-2023 00:11:18 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ff8ceb1ccf_IMG-20231031-WA0000.jpg
+[31-Oct-2023 00:19:17 Asia/Kolkata] In second loop: 
+[31-Oct-2023 00:19:17 Asia/Kolkata] fileExtension : jpg
+[31-Oct-2023 00:19:17 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ffaadb353a_IMG-20231031-WA0000.jpg
+[31-Oct-2023 00:19:17 Asia/Kolkata] fileExtension : jpg
+[31-Oct-2023 00:19:17 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ffaadb7e99_IMG-20231030-WA0023.jpg
+[31-Oct-2023 00:19:17 Asia/Kolkata] fileExtension : jpg
+[31-Oct-2023 00:19:17 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ffaadbf73b_IMG-20231030-WA0020.jpg
+[31-Oct-2023 00:19:17 Asia/Kolkata] fileExtension : jpg
+[31-Oct-2023 00:19:18 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ffaade80ef_IMG-20231030-WA0019.jpg
+[31-Oct-2023 00:19:18 Asia/Kolkata] fileExtension : jpg
+[31-Oct-2023 00:19:18 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ffaae2cf5f_IMG-20231030-WA0018.jpg
+[31-Oct-2023 00:35:32 Asia/Kolkata] In second loop: 
+[31-Oct-2023 00:35:32 Asia/Kolkata] fileExtension : jpg
+[31-Oct-2023 00:35:32 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ffe7c32ca4_IMG-20231030-WA0016.jpg
+[31-Oct-2023 00:35:32 Asia/Kolkata] fileExtension : jpg
+[31-Oct-2023 00:35:32 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ffe7c460d8_IMG-20231030-WA0013.jpg
+[31-Oct-2023 00:35:32 Asia/Kolkata] fileExtension : jpg
+[31-Oct-2023 00:35:34 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ffe7c787e0_IMG_20231030_161911.jpg
+[31-Oct-2023 00:35:34 Asia/Kolkata] fileExtension : jpg
+[31-Oct-2023 00:35:34 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ffe7e083a0_IMG-20231030-WA0011.jpg
+[31-Oct-2023 00:35:34 Asia/Kolkata] fileExtension : jpg
+[31-Oct-2023 00:35:34 Asia/Kolkata] Image uploaded successfully: ../../../upload_doc/gallery/653ffe7e20d85_IMG-20231030-WA0010.jpg

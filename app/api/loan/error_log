@@ -1,0 +1,4 @@
+[08-Nov-2022 13:43:53 UTC] PHP Notice:  Trying to get property 'USER_ID' of non-object in /home/snnlloan/public_html/app/api/loan/recent_transactions.php on line 12
+[18-Dec-2022 05:41:04 UTC] PHP Notice:  Undefined variable: status in /home/snnlloan/public_html/app/api/loan/recent_transactions.php on line 53
+[18-Dec-2022 05:41:07 UTC] PHP Notice:  Undefined variable: status in /home/snnlloan/public_html/app/api/loan/recent_transactions.php on line 53
+[18-Dec-2022 05:41:10 UTC] PHP Notice:  Undefined variable: status in /home/snnlloan/public_html/app/api/loan/recent_transactions.php on line 53
